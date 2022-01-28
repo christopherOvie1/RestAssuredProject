@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-26T22:54:04 BST" name="Default suite" finished-at="2021-09-26T22:54:05 BST" duration-ms="955">
+    <groups>
+    </groups>
+    <test started-at="2021-09-26T22:54:04 BST" name="Default test" finished-at="2021-09-26T22:54:05 BST" duration-ms="955">
+      <class name="tests.TestOnLocalAPI">
+        <test-method signature="deleteRequest()[pri:0, instance:tests.TestOnLocalAPI@3967e60c]" started-at="2021-09-26T22:54:04 BST" name="deleteRequest" finished-at="2021-09-26T22:54:05 BST" duration-ms="931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequest -->
+      </class> <!-- tests.TestOnLocalAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
